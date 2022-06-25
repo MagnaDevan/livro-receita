@@ -1,8 +1,6 @@
-# #  BOLO DE MILHO DE LATA NO LIQUIDIFICADOR
+# BOLO DE MILHO DE LATA NO LIQUIDIFICADOR
 
 ### INGREDIENTES
-
-
 
 * 1 lata de [milho](https://blog.tudogostoso.com.br/cardapios/receitas-faceis/como-cozinhar-milho-veja/) (sem o líquido)
 
